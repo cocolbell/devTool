@@ -70,6 +70,7 @@ var coo = (function(){
         },
         config : function (opt) {
             opt && _extend(_default, opt);
+            
         }
     }
 })()
